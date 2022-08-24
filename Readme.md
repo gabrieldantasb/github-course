@@ -1,5 +1,2 @@
 # Github
-Este é um repositorio teste para ensinar como git funciona
-Saiba mais em [willianjusten.com.br]
-Gosou do curso? Quer mais? Ajude com uma doação, até um café é válidp =)
-Arquivo da aula de Git e GitHub para iniciantes.
+arquivo da aula de Git e GitHub para iniciantes.
